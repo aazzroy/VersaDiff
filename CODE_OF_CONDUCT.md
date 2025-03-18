@@ -32,7 +32,7 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project maintainers at [me@thegaurav.in]. All complaints will be reviewed and addressed appropriately. The project team is committed to maintaining confidentiality and ensuring a safe environment for all contributors.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project maintainers at [me@thegaurav.in](mailto:me@thegaurav.in) or visit [thegaurav.in](https://www.thegaurav.in/). All complaints will be reviewed and addressed appropriately. The project team is committed to maintaining confidentiality and ensuring a safe environment for all contributors.
 
 ## Attribution
 
