@@ -106,4 +106,4 @@ This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md)
 ## Contact
 
 If you have any questions, suggestions, or issues, please open an issue on GitHub or contact the project maintainer at [me@thegaurav.in](mailto:me@thegaurav.in) or visit [thegaurav.in](https://www.thegaurav.in/).
-```
+
