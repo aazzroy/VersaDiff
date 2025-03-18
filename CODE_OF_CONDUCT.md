@@ -1,4 +1,3 @@
-
 # Code of Conduct
 
 We expect all contributors to adhere to the following code of conduct to ensure a welcoming and inclusive environment for everyone.
@@ -21,7 +20,7 @@ Examples of unacceptable behavior include:
 - Personal attacks or harassment.
 - Discriminatory jokes or remarks.
 - Unwanted sexual attention or advances.
-- Publishing others’ private information without consent.
+- Publishing others' private information without consent.
 
 ## Responsibilities
 
@@ -33,8 +32,8 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project maintainers at [insert contact email]. All complaints will be reviewed and addressed appropriately. The project team is committed to maintaining confidentiality and ensuring a safe environment for all contributors.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project maintainers at [me@thegaurav.in]. All complaints will be reviewed and addressed appropriately. The project team is committed to maintaining confidentiality and ensuring a safe environment for all contributors.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html).
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html). 
